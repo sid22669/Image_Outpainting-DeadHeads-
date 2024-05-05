@@ -22,7 +22,8 @@ To use this project, follow these steps:
 
 Clone the repository: git clone https://github.com/sid22669/Image_outpainting_Deadheads.git
 Install the required dependencies: pip install -r requirements.txt
-Download the pre-trained model checkpoints from checkpoints and place them in the checkpoints/ directory.
+Run the prepare_data.py and then dataloader.py to prepare and load the data for training
+Download the pre-trained model checkpoints from this link https://drive.google.com/drive/folders/1D59U3jy0SXDOpVT6Skb3Bc_6HX3l-i1j?usp=share_link and place them in the checkpoints/ directory.
 
 Contributing
 
