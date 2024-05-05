@@ -8,11 +8,13 @@ Image Outpainting (Deadheads) is a project that focuses on completing the full b
 
 Results during training
 
-![1_63](https://github.com/sid22669/Image_outpainting_Deadheads/assets/73767527/b5aaa233-2b5d-49b3-be62-a586b4652227)
+![1_63](https://github.com/sid22669/Image_Outpainting-DeadHeads-/assets/73767527/63273725-ecad-44ca-bf45-27f11b86e4b9)
 
-![1_256](https://github.com/sid22669/Image_outpainting_Deadheads/assets/73767527/a2773f25-e5b5-4e33-956c-fbbdc58d70d3)
+![1_135](https://github.com/sid22669/Image_Outpainting-DeadHeads-/assets/73767527/011911ed-c212-4257-a216-f7edd5ebd908)
 
-![1_237](https://github.com/sid22669/Image_outpainting_Deadheads/assets/73767527/83d0aa4a-3f93-492a-84f4-79a2f93045c8)
+![2_99](https://github.com/sid22669/Image_Outpainting-DeadHeads-/assets/73767527/2b2997b7-0b84-4261-85cf-5a99e433aaea)
+
+![2_74](https://github.com/sid22669/Image_Outpainting-DeadHeads-/assets/73767527/64659903-0164-44df-b6b6-03e3f0816765)
 
 
 
